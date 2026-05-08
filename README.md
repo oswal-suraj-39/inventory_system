@@ -158,6 +158,13 @@ Note: for proper setup, read the 'about setup.txt' file
 
 ---
 
+## 👨‍💻 Author
+
+**Suraj Uttamchand Oswal**
+📧 [surajoswal3@gmail.com](mailto:surajoswal3@gmail.com)
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
