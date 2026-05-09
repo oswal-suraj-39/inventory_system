@@ -97,10 +97,8 @@ A web-based **Inventory Management System** designed for small and medium-sized 
    ```
 
 6. Open in Visual Studio Code:
-
-   ```
-   Click on "Go Live" at the bottom bar in Visual Studio Code 
-   ```
+    * Click on ```Go Live``` at the bottom bar in Visual Studio Code
+      
 Note: for proper setup, read the 'about setup.txt' file
 ---
 
