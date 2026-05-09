@@ -71,7 +71,7 @@ A web-based **Inventory Management System** designed for small and medium-sized 
 
    * Node.js
    * MySQL
-   * Visual Studio Code with the live server extension
+   * Visual Studio Code with the ```live server``` extension
 
 2. Clone the repository:
 
@@ -87,8 +87,8 @@ A web-based **Inventory Management System** designed for small and medium-sized 
 
 4. Configure database:
 
-   * Create MySQL database and tables based on 'require-tables.txt'
-   * Update connection details in backend (/server/server.js)
+   * Create MySQL database and tables based on ```require-tables.txt```
+   * Update connection details in backend ```/server/server.js```
 
 5. Run the server on Visual Studio Code terminal:
 
