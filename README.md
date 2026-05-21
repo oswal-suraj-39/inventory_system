@@ -159,7 +159,7 @@ Note: for proper setup, read the 'about setup.txt' file
 ## 👨‍💻 Author
 
 **Suraj Uttamchand Oswal**
-📧 [surajoswal3@gmail.com](mailto:surajoswal3@gmail.com)
+📧 [surajoswal3@gmail.com](mailto:surajoswal39@gmail.com)
 
 ---
 
