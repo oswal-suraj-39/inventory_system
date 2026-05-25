@@ -76,7 +76,7 @@ A web-based **Inventory Management System** designed for small and medium-sized 
 2. Clone the repository:
 
    ```
-   git clone https://github.com/suraj-oswal-39/inventory_system.git
+   git clone https://github.com/suraj-jain-39/inventory_system.git
    ```
 
 3. Install dependencies:
