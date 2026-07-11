@@ -158,7 +158,7 @@ Note: for proper setup, read the 'about setup.txt' file
 
 ## 👨‍💻 Author
 
-**Suraj Uttamchand Oswal**
+**Oswal Suraj**
 📧 [surajoswal39@gmail.com](mailto:surajoswal39@gmail.com)
 
 ---
