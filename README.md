@@ -151,7 +151,7 @@ Note: for proper setup, read the 'about setup.txt' file
 
 * **Project Name:** Mera Godaam – Inventory Management System
 * **Course:** BBA (Computer Application)
-* **Student:** Suraj Oswal
+* **Student:** Oswal Suraj
 * **College:** Arihant College, Pune
 
 ---
