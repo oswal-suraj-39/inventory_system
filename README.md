@@ -88,7 +88,7 @@ A web-based **Inventory Management System** designed for small and medium-sized 
 4. Configure database:
 
    * Create MySQL database and tables based on ```require-tables.txt```
-   * Update connection details in backend ```/server/server.js```
+   * Update connection details in backend ```server.js```
 
 5. Run the server on Visual Studio Code terminal:
 
