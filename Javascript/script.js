@@ -866,7 +866,7 @@ function setupRow(row) {
         const qty = parseFloat(qtyInput.value) || 0;
         const price = parseFloat(priceInput.value) || 0;
         const discount = parseFloat(discountInput.value) || 0;
-        const mode = discountMode.value;
+        const mode = discountMode.value.trim();
 
         let total = qty * price;
         if (mode === "cash") total -= discount;
@@ -912,7 +912,7 @@ function addNewRow() {
                                 <input class="inputField" name="discountAmount" placeholder="Discount">
                                 <select class="inputField iF2" name="discountMode">
                                     <option value="">none</option>
-                                    <option value=" cash">Cash</option>
+                                    <option value="cash">Cash</option>
                                     <option value="%">%</option>
                                 </select>
                             </div>
