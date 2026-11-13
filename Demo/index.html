@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+</head>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: poppins, sans-serif;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        row-gap: 0.5rem
+    }
+
+    header {
+        display: flex;
+        width: 100%;
+        height: 4rem;
+        align-items: center;
+        padding-left: 1rem;
+        background: blue;
+        color: white;
+    }
+
+    section {
+        padding: 0.5rem;
+    }
+
+    .photoContainer {
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .lightThemePhotos, .darkThemePhotos {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    h2 {
+        margin-bottom: 0.5rem;
+    }
+
+    img {
+        width: 100%;
+        max-width: 40rem;
+        border-radius: 0.5rem;
+        border: 1px solid black;
+    }
+
+    iframe {
+        width: 100%;
+        border: 1px solid black;
+        border-radius: 0.5rem;
+    }
+
+    @media screen and (max-width: 768px) {
+        header {
+            height: 3rem;
+            font-size: 0.5em;
+        }
+
+        .photoContainer {
+            flex-wrap: wrap;
+        }
+    }
+</style>
+
+<body>
+
+    <header>
+        <h1>Inventory Management System Project Demo</h1>
+    </header>
+
+    <section id="video">
+        <h2>Video</h2>
+
+        <iframe
+            src="https://www.youtube.com/embed/3t2xjBJ5608"
+            title="Inventory Management System Demo"
+            allowfullscreen>
+        </iframe>
+    </section>
+
+    <section id="photos">
+        <h2>Photos</h2>
+
+        <div class="photoContainer">
+            <div class="lightThemePhotos">
+                <img src="./Screenshot1.jpg">
+                <img src="./Screenshot3.jpg">
+                <img src="./Screenshot5.jpg">
+                <img src="./Screenshot7.jpg">
+                <img src="./Screenshot9.jpg">
+                <img src="./Screenshot11.jpg">
+            </div>
+            <div class="darkThemePhotos">
+                <img src="./Screenshot2.jpg">
+                <img src="./Screenshot4.jpg">
+                <img src="./Screenshot6.jpg">
+                <img src="./Screenshot8.jpg">
+                <img src="./Screenshot10.jpg">
+                <img src="./Screenshot12.jpg">
+            </div>
+        </div>
+
+    </section>
+</body>
+
+</html>
